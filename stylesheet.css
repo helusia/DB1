@@ -12,8 +12,6 @@ a {
 }
   header{
     background-color:white;
-    width:100%;
-    margin:0 auto;
 }
 header h1{
   font-size:40px;
@@ -21,6 +19,5 @@ header h1{
 }
 header h3{
   float:right;
-  border:2px solid red;
   color:black;
 }
