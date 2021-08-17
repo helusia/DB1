@@ -12,7 +12,6 @@ a {
 }
   header{
     background-color:white;
-    border-bottom:1px solid red;
 }
 header h2{
   font-size:20px;
@@ -25,9 +24,10 @@ header h3{
 }
 .header1{
   width:1000px;
+  border-top:1px solid red;
 }
 .header2 p{
   line-height:1;
   color:red;
-  border-bottom:1px solid red;
+  
 }
