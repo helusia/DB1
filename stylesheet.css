@@ -20,6 +20,7 @@ header h1{
   float:left;
 }
 header a{
+  display:inline-block;
   font-size:30px;
   float:right;
   border:2px solid red;
