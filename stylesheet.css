@@ -19,6 +19,7 @@ header h1{
   font-size:40px;
   float:left;
 }
-header h2{
+header a{
   font-size:30px;
   float:right;
+  border:2px solid red;
