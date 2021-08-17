@@ -10,7 +10,13 @@ body {
 a {
   text-decoration: none;
 }
-
-header h1{
-  font-size:45px;
+  header{
+    background-color:white;
 }
+header h1{
+  font-size:40px;
+  float:left;
+}
+header h2{
+  font-size:30px;
+  float:right;
