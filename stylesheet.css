@@ -13,11 +13,10 @@ a {
   header{
     background-color:white;
 }
-header h1{
+header h2{
   font-size:40px;
   float:left;
 }
 header h3{
   float:right;
-  color:black;
 }
