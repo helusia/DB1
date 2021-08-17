@@ -12,13 +12,14 @@ a {
 }
   header{
     background-color:white;
+    border-bottom:1px solid red;
 }
 header h2{
   font-size:20px;
   float:left;
-  padding-left:50px;
+  padding-left:300px;
 }
 header h3{
   float:right;
-  padding-right:50px;
+  padding-right:300px;
 }
