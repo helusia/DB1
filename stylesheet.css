@@ -27,7 +27,9 @@ header h3{
   padding-top:100px;
 }
 .header2{
+  display:inline;
   width:50%;
+  margin:0 auto;
   border:1px solid red;
   text-align:center;
 }
