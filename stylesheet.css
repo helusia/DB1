@@ -28,6 +28,7 @@ header h3{
 }
 .header2 p{
   line-height:1;
-  color:blue;
+  color:red;
   text-align:center;
+  border:1px solid red;
 }
