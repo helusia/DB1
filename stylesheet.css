@@ -26,10 +26,12 @@ header h3{
 .header1{
   padding-top:100px;
 }
+.header2{
+  border:1px solid red;
+}
 .header2 p{
   line-height:1;
   color:red;
   text-align:center;
-  border:1px solid red;
   
 }
