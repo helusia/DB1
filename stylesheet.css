@@ -24,7 +24,7 @@ header h3{
   padding-right:300px;
 }
 .header1{
-  padding-top:100px;
+  padding-top:80px;
 }
 .header2{
   display:inline;
@@ -35,7 +35,7 @@ header h3{
 }
 .header2 p{
   line-height:1;
-  color:blue;
+  color:red;
   
   
 }
