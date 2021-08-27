@@ -36,6 +36,10 @@ header h3{
 .header2 p{
   line-height:1;
   color:red;
-  
-  
+}
+  .header3 p{
+    display:inline;
+  width:50%;
+  margin:0 auto;
+  text-align:center;
 }
