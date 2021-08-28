@@ -41,8 +41,8 @@ header h3{
     display:inline;
   width:50%;
   margin:0 auto;
+    padding-right:500px;
 }
 .header3 p{
   color:blue;
-  padding-right:500px;
 }
