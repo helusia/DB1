@@ -43,8 +43,12 @@ header h3{
     
 }
 .header3 p{
-  color:blue;
+  color:red;
 }
 .header4{
   text-align:center;
+}
+.header4 input{
+  display:block;
+  width:300px;
 }
