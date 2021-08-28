@@ -23,10 +23,10 @@ header h3{
   float:right;
   padding-right:350px;
 }
-header hr{
-hr size:1px;
-  hr width:100%;
-  hr color:red;
+hr{
+  size:1px;
+  width:100%;
+  color:red;
 }
 .header1{
   padding-top:80px;
