@@ -24,9 +24,10 @@ header h3{
   padding-right:350px;
 }
 hr{
-  size:1px;
+  height:1px;
+  background-color:red;
   width:100%;
-  color:red;
+  border:none;
 }
 .header1{
   padding-top:80px;
