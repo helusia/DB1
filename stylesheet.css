@@ -43,5 +43,6 @@ header h3{
   margin:0 auto;
 }
 .header3 p{
-  color:red;
+  color:blue;
+  padding-right:500px;
 }
