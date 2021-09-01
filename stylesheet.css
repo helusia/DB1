@@ -15,13 +15,13 @@ a {
     width:100%;
 }
 header h2{
-  font-size:30px;
+  font-size:20px;
   float:left;
-  padding-left:350px;
+  padding-left:250px;
 }
 header h3{
   float:right;
-  padding-right:350px;
+  padding-right:250px;
 }
 hr{
   height:1px;
@@ -48,7 +48,7 @@ hr{
     
 }
 .header3 p{
-  color:blue;
+  color:red;
 }
 .header4{
   text-align:center;
