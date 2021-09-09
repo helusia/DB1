@@ -48,7 +48,7 @@ hr{
     
 }
 .header3 p{
-  color:red;
+  color:blue;
 }
 .header4{
   text-align:center;
@@ -64,5 +64,5 @@ display:inline-block;
   padding-left:500px;
 }
 .header6{
-  display:inline-block;
+  display:block;
   text-align:center;
